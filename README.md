@@ -15,6 +15,8 @@ Here is the short description of different sampling techniques used in the code:
 
 4) Cluster sampling: The entire population is divided into smaller groups or clusters where they are indicative of homogeneous characteristics and have an equal chance of being a part of the sample.
 
+5) Multi stage sampling: In this technique, cluster sampling was performed, followed by simple random sampling.
+
 Following ML Models are implied in the code:
 1) Naive Bayes classifier: Naïve Bayes algorithm is a supervised learning algorithm, which is based on Bayes theorem and used for solving classification problems.It is a probabilistic classifier, which means it predicts on the bsis of probability of an object.
 2) Logistic Regression: In logistic regression, a logit transformation is applied on the odds—that is, the probability of success divided by the probability of failure. This is also commonly known as the log odds, or the natural logarithm of odds which is represented by logistic function.
@@ -25,7 +27,8 @@ Following ML Models are implied in the code:
 CONCLUSION:
 We can conclude that from the table of calculated accuracies, random forest has shown maximum accuracy in all of the given sampling techniques.
 
-![image](https://user-images.githubusercontent.com/110947828/219890327-3fd4b4d7-93b1-410e-bdb4-ef25e87537ba.png)
+![image](https://user-images.githubusercontent.com/110947828/219967211-47744cd6-5c52-4a9d-b690-c1a3b8a908e8.png)
+
 
 
 
